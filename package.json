@@ -1,0 +1,11 @@
+{
+  "name": "dar-accounting-section-tracker",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "echo \"No frontend build step required: Bootstrap, Icons, XLSX and the application JS are loaded from CDNs.\"",
+    "dev": "echo \"No frontend dev server required for this project.\""
+  },
+  "devDependencies": {}
+}
